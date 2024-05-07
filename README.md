@@ -2,6 +2,27 @@
 
 A mobile application that I am currently developing. The goal is to facilitate the collection, presentation and generation of data needed in the treatment of patients with urological problems. It supports activities performed both by the patient and the work of doctors. It is created in cooperation with renowned urologists. The application will be available on the Play Store at the turn of the 2nd and 3rd quarter of 2024.
 
+## Features
+- Quick overview:
+  - urination diary (pees, leaks, intakes)
+  - psa,
+  - questionnaires (IPSS, IIEF5),
+  - medicines,
+  - medical interviews,
+  - documents
+- Common functionalities (for each modules mentioned above):
+  - forms (validation, user friednly)
+  - dashboards (display data in bar chart, line chart and list views, data could be filtered fe. by date, grouped etc.)
+  - data could be shared or exported to pdf raports
+- Settings:
+  - multi language support (english, french, german, polish, indonesian, portuguese, spanish, russian, arabic, chinese)
+  - multi display modes (light, dark, dynamic)
+  - units of measures (metric, imperial)
+- Animations:
+  - content,
+  - loading state (ex. shimmer effect)
+  - etc.
+
 ## Tech Stack
 
 **Application consists of three layers:**

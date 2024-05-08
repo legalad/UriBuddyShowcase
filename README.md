@@ -75,7 +75,11 @@ A mobile application that I am currently developing. The goal is to facilitate t
   - depending on test variuos types of test doubles are used (fakes, mocks, dummies, stubs)
 
 ## Demo
-(TO DO)
+<img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/6a81afe1-7adc-4f62-bfc0-85f697ee64f2" height="400"/>
+<img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/a55a9c59-1b01-49d3-812d-cebb2d7f4ac7" height="400"/>
+<img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/444bf792-d95e-42b1-a95b-5db50a7d53f6" height="400"/>
+<img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/3f152025-bf7d-4302-b504-51631f0001fb" height="400"/>
+<img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/cba16d2c-ab74-422a-8e95-bae03f31654a" height="400"/>
 
 ## Roadmap
 (TO DO)

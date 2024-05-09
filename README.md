@@ -82,7 +82,9 @@ A mobile application that I am currently developing. The goal is to facilitate t
 <img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/cba16d2c-ab74-422a-8e95-bae03f31654a" height="400"/>
 
 ## Roadmap
-(TO DO)
+- perform closed test of app
+- perform open test of app
+- publish app on Play Store
 
 ## Authors
 - [@legalad](https://www.github.com/legalad)

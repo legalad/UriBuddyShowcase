@@ -81,6 +81,12 @@ A mobile application that I am currently developing. The goal is to facilitate t
 <img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/3f152025-bf7d-4302-b504-51631f0001fb" height="400"/>
 <img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/cba16d2c-ab74-422a-8e95-bae03f31654a" height="400"/>
 
+## Generated PDF example
+<embed src="https://github.com/legalad/UriBuddyShowcase/files/15313161/QUESTIONNAIRES_URI_BUDDY.pdf" width="800px" height="1600px"/>
+
+[QUESTIONNAIRES_URI_BUDDY.pdf](https://github.com/legalad/UriBuddyShowcase/files/15313161/QUESTIONNAIRES_URI_BUDDY.pdf)
+
+
 ## Roadmap
 - perform closed test of app
 - perform open test of app

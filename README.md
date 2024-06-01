@@ -2,6 +2,8 @@
 
 A mobile application that I am currently developing. The goal is to facilitate the collection, presentation and generation of data needed in the treatment of patients with urological problems. It supports activities performed both by the patient and the work of doctors. It is created in cooperation with renowned urologists. The application will be available on the Play Store at the turn of the 2nd and 3rd quarter of 2024.
 
+#### Current dev stage - *during internal tests*
+
 ## Demo (tech stack below)
 <img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/6a81afe1-7adc-4f62-bfc0-85f697ee64f2" height="400"/>
 <img src="https://github.com/legalad/UriBuddyShowcase/assets/109519711/a55a9c59-1b01-49d3-812d-cebb2d7f4ac7" height="400"/>
